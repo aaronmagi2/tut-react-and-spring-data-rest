@@ -2,6 +2,8 @@
 
 const React = require('react');
 
+const UpdateDialog = require('./UpdateDialog')
+
 class Employee extends React.Component {
 
 	constructor(props) {
